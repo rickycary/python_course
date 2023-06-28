@@ -36,3 +36,7 @@ for (a,b) in mylist:
 mylist = [(1,2,3), (5,6,7), (8,9,10)]
 for a,b,c in mylist:
     print(b)
+
+d = {'k1':1, "k2":2, "k3":3}
+for key,value in d.items():
+    print(value)
