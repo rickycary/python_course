@@ -15,7 +15,7 @@ for item in x:
     pass
 print('end of my script')
 
-# Example #2
+# Example 2
 
 mystring = 'Sammy'
 for letter in mystring:
